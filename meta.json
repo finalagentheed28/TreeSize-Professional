@@ -1,0 +1,23 @@
+{
+  "repo": "treesize-professional",
+  "product": "TreeSize Professional",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "disk-analyzer",
+  "topics": [
+    "treesize-professional",
+    "disk-space-analyzer",
+    "folder-age-reports",
+    "treesize-windows",
+    "volume-scan-2026",
+    "how-to-install-treesize",
+    "treesize-desktop-package",
+    "csv-export-suite",
+    "ntfs-size-desk",
+    "treesize-complete"
+  ],
+  "site": "toolix.me"
+}
